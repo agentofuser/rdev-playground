@@ -15,5 +15,7 @@
 		"titleBar.inactiveBackground": "#3bd13199",
 		"titleBar.inactiveForeground": "#15202b99"
 	},
-	"peacock.color": "#3bd131"
+	"peacock.color": "#3bd131",
+	"editor.defaultFormatter": "matklad.rust-analyzer",
+	"editor.formatOnSave": true
 }
